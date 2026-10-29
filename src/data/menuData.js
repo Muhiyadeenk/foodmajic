@@ -5,8 +5,8 @@
 export const RESTAURANT = {
   name: 'FOOD MAGIC',
   tagline: 'Fresh. Hot. Delivered.',
-  whatsappNumber: '97479947772', // digits only, with country code
-  phone: '+974 7994 7772',
+  whatsappNumber: '919747947772', // digits only, with country code
+  phone: '+91 9747947772',
   email: 'hello@foodmagic.example',
   address: '12 Market Street, Your City',
   hours: 'Open daily 8:00 AM - 11:00 PM',
